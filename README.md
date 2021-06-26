@@ -69,7 +69,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 ## Questions
 
-If you have any questions feel free to contact me. Reach out to me on github at[LasetteBrown](https://github.com/LasetteBrown) or email me at [lasette.brown@gmail.com](mailto:lasette.brown@gmail.com)
+If you have any questions feel free to contact me. Reach out to me on github at [LasetteBrown](https://github.com/LasetteBrown) or email me at [lasette.brown@gmail.com](mailto:lasette.brown@gmail.com)
 
 
 
