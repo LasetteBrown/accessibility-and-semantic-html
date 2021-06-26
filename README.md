@@ -21,11 +21,11 @@ Given started code from Horiseon Social Solution Services Inc. I added accessibi
 
 Screenshot of final webpage:
 
-![The Horiseon webpage](./assets/images/final-product-screenshot.png)
+[The Horiseon webpage](./assets/images/final-product-screenshot.png)
 
 Link to webpage:
 
-![https://lasettebrown.github.io/accessibility-and-semantic-html/](https://lasettebrown.github.io/accessibility-and-semantic-html/)
+[https://lasettebrown.github.io/accessibility-and-semantic-html/](https://lasettebrown.github.io/accessibility-and-semantic-html/)
 
 **Note**: This layout is designed for desktop viewing. It will not adjust or react to resizing of the screen or on mobnile devices.
         
@@ -43,7 +43,7 @@ Accessibility is important for anyone using adaptive technology on a websight. F
 
 In order to improve the accessibility of this page. I made sure that all images and icons had alt tag descriptions. I also made sure that the page itself and the background image both had titles. I also made sure that all of the links at the top of the page functioned properly.
         
-For more information about accessibility check out this article: ![https://developers.google.com/web/fundamentals/accessibility](https://developers.google.com/web/fundamentals/accessibility)
+For more information about accessibility check out this article: [https://developers.google.com/web/fundamentals/accessibility](https://developers.google.com/web/fundamentals/accessibility)
 
 ## Semantics
 
@@ -51,7 +51,7 @@ Semantic HTML is a more descriptive way of organizing a webpage. Using semantic 
 
 In order to improve the samantics of this webpage, I made sure to change all 'div' tags to more descriptive Semantic HTML tags. I also cosolodated and updated the CSS to match these changes.
 
-For more information on semantic HTML check out this link: ![https://www.w3schools.com/html/html5_semantic_elements.asp](https://www.w3schools.com/html/html5_semantic_elements.asp)
+For more information on semantic HTML check out this link: [https://www.w3schools.com/html/html5_semantic_elements.asp](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 ## Licence
 Copyright 2021 Trilogy Education Services, LLC
@@ -69,7 +69,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 ## Questions
 
-If you have any questions feel free to contact me. Reach out to me on github at[LasetteBrown](https://github.com/LasetteBrown) or email me at [lasette.brown@gmail.com](mailto:lasette.brown@gmail.com)
+If you have any questions feel free to contact me. Reach out to me on github at [LasetteBrown](https://github.com/LasetteBrown) or email me at [lasette.brown@gmail.com](mailto:lasette.brown@gmail.com)
 
 
 
